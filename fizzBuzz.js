@@ -8,9 +8,9 @@ var transformers = {
 };
 
 var transform = function (number) {
-	for(var transformer in transformers) {
-		if(transformers[transformer](number)) {
-			return transformer;
+	for(var key in transformers) {
+		if(transformers[key](number)) {
+			return key;
 		}
 	}
 	return number;
