@@ -1,3 +1,3 @@
 FizzBuzzJS
 ==========
-Simple, testable FizzBuzz using JavaScript.
+Simple, testable, extendable FizzBuzz using JavaScript.

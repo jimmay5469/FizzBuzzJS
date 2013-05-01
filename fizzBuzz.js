@@ -13,7 +13,7 @@ var fizzBuzz = {
 var fallback = {
 	isMatch: function (number) { return true; },
 	transform: function (number) { return number; }
-}
+};
 
 var transformers = {
 	"fizzBuzz": fizzBuzz,
