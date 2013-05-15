@@ -1,5 +1,5 @@
 var assert = require("assert");
-var fizzBuzz = require("./../fizzBuzz");
+var fizzBuzz = require("./../../lib/fizzBuzz");
 
 describe('fizzBuzz', function() {
 	describe('transform', function() {
