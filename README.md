@@ -7,6 +7,17 @@ Setup
 1. Install Git, Node.js, NPM.
 2. Clone this repository: `git clone [url]`.
 3. Run `npm install` in the root.
-4. Start the project using `node main.js`.
-5. Test using `npm test`.
-6. Watch tests using `make test-w`.
+
+Running
+-------
+* Node
+	* Use `node main.js`.
+* Browser
+	* Visit `index.html` using a browser.
+
+Testing
+-------
+* Once
+	* Use `npm test`.
+* Continuous
+	* Use `make test-w`.
