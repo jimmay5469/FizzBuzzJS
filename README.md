@@ -10,14 +10,10 @@ Setup
 
 Running
 -------
-###Node
-Run `node main.js`.
-###Browser
-Visit `index.html` using a browser.
+* Node: Run `node main.js`.
+* Browser: Visit `index.html`.
 
 Unit Testing
 -------
-###Once
-Run `npm test`.
-###Continuous
-Run `make test-w`.
+* Once: Run `npm test`.
+* Continuous: Run `make test-w`.
